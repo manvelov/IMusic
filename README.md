@@ -5,7 +5,7 @@ The application is created as a study project.
 ## Features
 - Find artists and songs
 - Listen first 30 seconds of a song
-- Add/remove favorite songs form the Library
+- Add/remove favorite songs from the Library
 
 ## Under the hood
 Frameworks: UIKit, SwiftUI 
