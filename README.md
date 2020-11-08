@@ -19,4 +19,6 @@ Image Downloader: SDWebImage, URLImage
 ## Installation
 [URLImage](https://github.com/dmytro-anokhin/url-image#using-swift-package-manager) is required to be added to the project using Swift Package Manager.
  
+## Example
 
+<img src="https://github.com/manvelov/IMusic/blob/master/IMusic_example.gif" width="200">
